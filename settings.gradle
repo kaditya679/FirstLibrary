@@ -1,0 +1,3 @@
+include ':MyFirstLibrary'
+include ':app'
+rootProject.name = "FirstLibrary"
